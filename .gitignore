@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+.env
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# Large intermediate datasets
+data/cleaned_sales.csv
+data/combined_sales.csv
+data/cook_county_sales_sample.csv
+data/matched_properties.csv
+data/sales_with_locations.csv
